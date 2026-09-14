@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Eduardo Santos 👋</h1>
+<h1 align="center">Olá 👋</h1>
 
 <h3 align="center">Estudante de ADS | Futuro Desenvolvedor Backend | Em constante evolução 🚀</h3>
 
